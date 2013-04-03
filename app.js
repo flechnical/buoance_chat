@@ -1,5 +1,4 @@
 /*
-	Logistik von Naturfit einbauen
 	wenn disconnect Verlauf am Server speichern? MySQL?
 */
 

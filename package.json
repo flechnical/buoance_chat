@@ -1,10 +1,30 @@
 {
   "name": "chat_test",
+	"author": "markd-up <admin@markd-up.info.tm>",
+	"description": "node.js/socket.io-server for a websocket-chat.",
+	"contributors": [
+		{
+			"name": "Dominic Fleckner",
+			"email": "admin@markd-up.info.tm"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/markd-up/buoance_chat.git"
+	},
+	"keywords": [
+		"chat",
+		"node.js",
+		"socket.io",
+		"websockets",
+		"server"
+	],
+	"license": "MIT",
   "subdomain": "buoance_chat_test",
   "scripts": {
     "start": "node app.js"
   },
-  "version": "0.0.0-5",
+  "version": "0.0.1",
   "engines": {
     "node": "0.8.x"
   },
